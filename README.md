@@ -1,1 +1,2 @@
-# Amazon-Clone
+# AMAZON Clone
+Project Using HTML & CSS
